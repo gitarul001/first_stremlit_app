@@ -1,4 +1,8 @@
 import streamlit
 
-streamlit.title('Hello, Kitty!')
-('Vanakkam!')
+streamlit.title('Hello, Vanakkam!')
+
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
